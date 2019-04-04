@@ -1,6 +1,12 @@
 # Zemax-Spherical-Thermal
 First order thermal modeling of spherical GRIN
 
+NOTE (4/3/2019): Sincere apologies to early adopters.  It was discovered just today that 
+the original upload (7/17/2018) was inadvertently corrupted by an intermediate version of
+the code.  The thermal variation of geometric parameters was modeled, but thermal variation
+of material refractive indices had yet to be implemented. The current documents and DLL
+represent what was *intended* to be uploaded.  Again, apologies for the confusion.
+
 Bare-bones release July 17, 2018.  This represents an extension of the spherical GRIN model
 available at https://github.com/GrinLens/Zemax-Spherical-GRIN/releases.  It is highly
 recommended that one read the documentation available there before attempting to use this tool.
